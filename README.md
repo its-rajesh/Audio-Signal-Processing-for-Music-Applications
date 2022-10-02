@@ -17,3 +17,6 @@ This repo contains the codes of the assignments submitted in the course "Audio S
 - [A2-Part-3](https://github.com/its-rajesh/Audio-Signal-Processing-for-Music-Applications/blob/main/A2/A2Part3.py): Discrete Fourier Transform (DFT)
 - [A2-Part-4](https://github.com/its-rajesh/Audio-Signal-Processing-for-Music-Applications/blob/main/A2/A2Part4.py): Inverse Discrete Fourier Transform (IDFT)
 - [A2-Part-5](https://github.com/its-rajesh/Audio-Signal-Processing-for-Music-Applications/blob/main/A2/A2Part5.py): Magnitude Spectrogram
+
+
+### Assignment 3
